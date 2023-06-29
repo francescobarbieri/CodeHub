@@ -1,4 +1,4 @@
-# CodeChamber
+# CodeHub
 
 Welcome to CodeVault! This repository serves as a centralized storage for miscellaneous code, resources, and notes. It's designed to keep track of code snippets, Leetcode problems, PDFs, and other useful references in one convenient location.
 
